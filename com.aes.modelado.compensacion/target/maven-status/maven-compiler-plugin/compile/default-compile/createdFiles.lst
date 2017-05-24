@@ -1,0 +1,3 @@
+com\aes\modelado\compensacion\entity\Compensacion.class
+com\aes\modelado\compensacion\http\HttpServiceDirective.class
+com\aes\modelado\compensacion\service\CompensacionService.class

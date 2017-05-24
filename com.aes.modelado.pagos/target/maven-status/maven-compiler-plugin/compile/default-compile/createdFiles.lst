@@ -1,0 +1,10 @@
+com\aes\modelado\pagos\util\ParameterNamesModule.class
+com\aes\modelado\pagos\http\HttpServiceDirective.class
+com\aes\modelado\pagos\entity\Pago.class
+com\aes\modelado\pagos\entity\Respuesta.class
+com\aes\modelado\pagos\util\PackageVersion.class
+com\aes\modelado\pagos\util\ParameterExtractor.class
+com\aes\modelado\pagos\entity\Factura.class
+com\aes\modelado\pagos\service\PagosService.class
+com\aes\modelado\pagos\util\JacksonJdk8.class
+com\aes\modelado\pagos\util\ParameterNamesAnnotationIntrospector.class
